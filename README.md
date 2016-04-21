@@ -1,10 +1,11 @@
 # *Mips Assembler* 
 
-#### ---*by*  潘浩杰  
+#### ---*by*  Author  
 
 #
 >  **写在前面的话： 因为汇编器功能还不完善，所以要特别注意输入输出格式...然后程序如果崩了就再开一次**
 #
+
 [.EXE文件下载](http://pan.baidu.com/s/1pLKPgOb "Title")
 
 #### **Content**
